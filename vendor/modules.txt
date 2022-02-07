@@ -1,0 +1,29 @@
+# github.com/agext/levenshtein v1.2.1
+## explicit
+github.com/agext/levenshtein
+# github.com/apparentlymart/go-textseg/v13 v13.0.0
+## explicit; go 1.16
+github.com/apparentlymart/go-textseg/v13/textseg
+# github.com/google/go-cmp v0.5.4
+## explicit; go 1.8
+# github.com/hashicorp/hcl/v2 v2.11.1
+## explicit; go 1.12
+github.com/hashicorp/hcl/v2
+github.com/hashicorp/hcl/v2/ext/customdecode
+github.com/hashicorp/hcl/v2/hclsyntax
+# github.com/mitchellh/go-wordwrap v0.0.0-20150314170334-ad45545899c7
+## explicit
+github.com/mitchellh/go-wordwrap
+# github.com/zclconf/go-cty v1.10.0
+## explicit; go 1.12
+github.com/zclconf/go-cty/cty
+github.com/zclconf/go-cty/cty/convert
+github.com/zclconf/go-cty/cty/function
+github.com/zclconf/go-cty/cty/function/stdlib
+github.com/zclconf/go-cty/cty/gocty
+github.com/zclconf/go-cty/cty/json
+github.com/zclconf/go-cty/cty/set
+# golang.org/x/text v0.3.5
+## explicit; go 1.11
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm
